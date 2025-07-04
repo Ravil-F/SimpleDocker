@@ -6,16 +6,16 @@
 ## Contents
 
 1. [Chapter I](#chapter-i) \
-    2.1. [nginx](#nginx) \
-    2.2. [Docker](#docker) \
-    2.3. [Dockle](#dockle)
+    1.1. [nginx](#nginx) \
+    1.2. [Docker](#docker) \
+    1.3. [Dockle](#dockle)
 2. [Chapter III](#chapter-ii) \
-    3.1. [Готовый докер](#part-1-готовый-докер) \
-    3.2. [Операции с контейнером](#part-2-операции-с-контейнером) \
-    3.3. [Мини веб-сервер](#part-3-мини-веб-сервер) \
-    3.4. [Свой докер](#part-4-свой-докер) \
-    3.5. [Dockle](#part-5-dockle) \
-    3.6. [Базовый Docker Compose](#part-6-базовый-docker-compose)
+    2.1. [Готовый докер](#part-1-готовый-докер) \
+    2.2. [Операции с контейнером](#part-2-операции-с-контейнером) \
+    2.3. [Мини веб-сервер](#part-3-мини-веб-сервер) \
+    2.4. [Свой докер](#part-4-свой-докер) \
+    2.5. [Dockle](#part-5-dockle) \
+    2.6. [Базовый Docker Compose](#part-6-базовый-docker-compose)
 
 
 ## Chapter I

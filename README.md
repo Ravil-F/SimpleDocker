@@ -7,16 +7,16 @@ The russian version of the task can be found in the repository.
 ## Contents
 
 1. [Chapter I](#chapter-i) \
-    2.1. [nginx](#nginx) \
-    2.2. [Docker](#docker) \
-    2.3. [Dockle](#dockle)
+    1.1. [nginx](#nginx) \
+    1.2. [Docker](#docker) \
+    1.3. [Dockle](#dockle)
 2. [Chapter II](#chapter-ii) \
-    3.1. [Ready-made docker](#part-1-ready-made-docker) \
-    3.2. [Operations with container](#part-2-operations-with-container) \
-    3.3. [Mini web server](#part-3-mini-web-server) \
-    3.4. [Your own docker](#part-4-your-own-docker) \
-    3.5. [Dockle](#part-5-dockle) \
-    3.6. [Basic Docker Compose](#part-6-basic-docker-compose)
+    2.1. [Ready-made docker](#part-1-ready-made-docker) \
+    2.2. [Operations with container](#part-2-operations-with-container) \
+    2.3. [Mini web server](#part-3-mini-web-server) \
+    2.4. [Your own docker](#part-4-your-own-docker) \
+    2.5. [Dockle](#part-5-dockle) \
+    2.6. [Basic Docker Compose](#part-6-basic-docker-compose)
 
 
 
